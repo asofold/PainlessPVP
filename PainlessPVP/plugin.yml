@@ -1,0 +1,7 @@
+name: PainlessPVP
+main: me.asofold.bpl.painlesspvp.PainlessPVP
+version: 1.0.0
+softdepend:
+- WorldGuard
+- WorldEdit
+- mcMMO

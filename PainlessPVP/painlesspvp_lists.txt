@@ -1,0 +1,15 @@
+
+Some fixes and features for pvp !
+
+
+
+STACK
+--------------------------------------------------------
+
+? move invisibility fixes to this plugin ?
+
+? should member perm also let owners keep inventory.
+
+! add configurability !
+
+! find bugs
