@@ -56,10 +56,10 @@ public class PainlessPVP extends JavaPlugin {
 		// Add dependency stuff.
 		try{
 			addFeatures_WorldGuard(pm, logger);
-		} catch (Throwable t){t.printStackTrace();}
+		} catch (Throwable t){}
 		try{
 			addFeatures_mcMMO(pm, logger);
-		} catch (Throwable t){t.printStackTrace();}
+		} catch (Throwable t){}
 		
 		// Done.
 		logger.info(getDescription().getFullName() + " is enabled.");
