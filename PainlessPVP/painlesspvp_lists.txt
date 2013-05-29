@@ -6,9 +6,13 @@ Some fixes and features for pvp !
 STACK
 --------------------------------------------------------
 
+? some way to remember the regions or interpolation to catch some edge cases (should probably add an option to only check x-z dist)?
+
 ? move invisibility fixes to this plugin ?
 
-? should member perm also let owners keep inventory.
+? should member perm also let owners keep inventory ?
+
+! More flexible content policy => allow adding items if some are there already - count free slots - which to drop on conflicts ...
 
 ! add configurability !
 

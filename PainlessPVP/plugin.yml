@@ -1,6 +1,6 @@
 name: PainlessPVP
 main: me.asofold.bpl.painlesspvp.PainlessPVP
-version: 1.0.0
+version: 1.0.1
 softdepend:
 - WorldGuard
 - WorldEdit
